@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h3.chitiet-donhang i {
+    font-style: initial;
+    color: #050745;
+    /* font-size: 21px; */
+    font-family: unset;
+}
+
+h3.chitiet-donhang {
+    font-size: 20px;
+    line-height: 9px;
+    color: #5f1707;
+    font-family: monospace;
+}
+
+h3.tieude-chitiet- {
+    color: #4c0404;
+    font-size: 30px;
+    font-family: monospace;
+}
+/* css cho form dang nhap */
+
+/* css cho form add category */
+.col-lg-5 h1 {
+    font-size: 30px;
+    color: #FF9800;
+    font-family: fantasy;
+    text-shadow: 4px 7px 6px #22200f38;
+}
+label {
+    color: #760f0f;
+    font-size: 20px;
+    font-family: -webkit-pictograph;
+    font-style: oblique;
+}
+/* css cho category */
+.btn.btn-primary.mt-4.mb-3 a {color: white;}
+tbody tr td {
+    font-size: 18px;
+    font-family: monospace;
+    color: #490505;
+}
+
+th {
+    text-align: center;
+    color: #7c1300;
+    font-size: 18px;
+}
+
+a.dropdown-toggle {
+    color: #3f0303!important;
+    font-size: 19px;
+}
+table.table.table-bordered {
+    margin-top: 6px;
+}
+img.icon-table {
+    width: 20px;
+}
+
+a.navbar-brand {
+    color: #2b3004!important;
+    font-family: inherit;
+    font-weight: 800;
+}
+/* //css cho background */
+ul.nav.navbar-nav.side-nav {
+    background-color: #360b00;
+    color: #b11e1ef0!important;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+ul.nav.navbar-nav.side-nav a {
+    color: #fb3a00;
+}
+
+body {
+    background-color: #ffffff24;
+}
+
+div#page-wrapper {
+    background-color: #ffffff99;
+}
+
+nav.navbar.navbar-inverse.navbar-fixed-top {
+    background-color: #ffc107ba;
+    color: violet;
+    border: 1px solid #FFEB3B;
+}
+div#wrapper {
+    background-color: white;
+}
